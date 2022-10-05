@@ -1,0 +1,34 @@
+.navbar {
+    color: white;
+    background-color:#6c757d ;
+  }
+
+  #title {
+        margin-left: 0px;
+  }
+
+.nav-item {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  #contenido {
+    margin-top: 20px;
+  }
+
+  #parrafos {
+    display:flex;
+    margin-right: 7%;
+    margin-left: 7%;
+    margin-top: 7%;
+  }
+
+  #opciones {
+    width: 1500px;
+    margin-right: 2.5%;
+  }
+
+  .parrafo {
+    text-align: right;
+  }
+
