@@ -31,3 +31,22 @@
 #todo{
   text-align: justify;
 }
+
+.list-group-item{
+  text-align: left; 
+  text-decoration: underline;
+  padding: 5%;
+}
+
+.col{
+  text-align: justify;
+}
+
+.textoCol{
+  max-height: 1001px;
+}
+
+.row{
+  min-height: 300px;
+}
+
