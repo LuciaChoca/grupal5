@@ -1,7 +1,7 @@
 .navbar {
-    color: white;
-    background-color:#6c757d ;
-  }
+  color: white;
+  background-color:#6c757d ;
+}
 
   #titulo_cabecera{
     margin-left: 10px;
@@ -10,8 +10,8 @@
   }
 
 .nav-item {
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 3px;
+    margin-right: 6%;
   }
 
   #contenido {
@@ -44,11 +44,13 @@
 .textoCol{
   min-height: 12em;
   background-color: #f8f9fa;
+  min-width: 17em;
+}
+#primer-titulo {
+  margin-left:5px;
 }
 
-#search{
-  float: right;
-}
+
 
 
 
