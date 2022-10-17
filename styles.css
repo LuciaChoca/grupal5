@@ -3,23 +3,21 @@
     background-color:#6c757d ;
   }
 
-  #search {
-
-      float: right;
-  }
-
   #titulo_cabecera{
-    margin-left: 500px;
+    margin-left: 10px;
+    margin-right: 2%;
+    margin-bottom: 0px;
   }
 
 .nav-item {
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
   }
 
   #contenido {
-    margin-top: 20px;
+    margin-top: 2.5%;
   }
+
   #opciones {
     width: 1500px;
     margin-right: 2.5%;
@@ -45,6 +43,7 @@
 
 .textoCol{
   min-height: 12em;
+  background-color: #f8f9fa;
 }
 
 #search{
