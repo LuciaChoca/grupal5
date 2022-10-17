@@ -3,13 +3,13 @@
     background-color:#6c757d ;
   }
 
-  #title {
-        margin-left: 0px;
+  #search {
+
+      float: right;
   }
 
-  #search {
-      margin-left: 200px;
-
+  #titulo_cabecera{
+    margin-left: 500px;
   }
 
 .nav-item {
@@ -28,6 +28,7 @@
 .flecha{
   color: black;
 }
+
 #todo{
   text-align: justify;
 }
@@ -43,10 +44,12 @@
 }
 
 .textoCol{
-  max-height: 1001px;
+  min-height: 12em;
 }
 
-.row{
-  min-height: 300px;
+#search{
+  float: right;
 }
+
+
 
